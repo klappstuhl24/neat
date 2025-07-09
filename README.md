@@ -1,4 +1,4 @@
-# NEAT Project
+# NEAT (Python)
 
 Welcome to the NEAT Project! This repository implements (a slightly simplified version of) NeuroEvolution of Augmenting Topologies (NEAT), a genetic algorithm for evolving artificial neural networks.
 
@@ -14,17 +14,17 @@ To get started, follow these steps:
 
 1. Download the repository and:
     ```bash 
-    cd NEAT_Project
+    cd neat
     ```
 
 2. Create a new Conda environment:
     ```bash
-    conda create -n neat-project python=3.12
+    conda create -n neat python=3.12
     ```
 
 3. Activate the environment:
     ```bash
-    conda activate neat-project
+    conda activate neat
     ```
 
 4. Install the required dependencies:
@@ -56,9 +56,5 @@ Based on the concept by Kenneth O. Stanley. For more information, check out the 
 
 Also code snippets were used from the Code Reclaimers implementation of NEAT 'neat-python'. Click [here](https://github.com/CodeReclaimers/neat-python) for further information.
 
-## Credits
-
-This library was developed by Marcel Schepelmann and Timm Kleipsties as part of the course "Neuroevolution" at the Computational Health Informatics (CHI) department of Leibniz University Hannover.
-
-## Version 1.0
-8th  May 2025
+## Version 1.1
+8th July 2025
